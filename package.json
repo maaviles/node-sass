@@ -1,0 +1,22 @@
+{
+  "name": "UXClass",
+  "version": "0.0.1",
+  "description": "My Project for UX Evening Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": "true",
+  "dependencies": {
+    "express": "~3.4.8",
+    "ejs": "~0.8.5",
+    "jade": "~1.1.5"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-sass": "~0.10.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
